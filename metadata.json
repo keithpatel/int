@@ -1,0 +1,5 @@
+{
+  "name": "Inventory Management System",
+  "description": "A web application to manage product inventory, allowing users to add, view, edit, delete, and search items. It also displays key inventory statistics.",
+  "requestFramePermissions": []
+}
